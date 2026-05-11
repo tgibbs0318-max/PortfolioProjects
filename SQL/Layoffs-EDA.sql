@@ -1,4 +1,4 @@
--- Exploratory Data Analysis
+## Exploratory Data Analysis
 
 SELECT * 
 FROM world_layoffs.layoffs_staging2;
