@@ -37,6 +37,3 @@ The dashboard provides insights into:
 - Dashboard screenshot (.jpg)
 - Data file (.xlsx)
 
-## Dashboard Preview
-
-![Dashboard Screenshot](PBI_Screenshot.jpg)
