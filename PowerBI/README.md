@@ -34,8 +34,8 @@ The dashboard provides insights into:
 
 ## Files Included
 - Power BI report (.pbix)
-- Dashboard screenshots
-- Sample dataset (if applicable)
+- Dashboard screenshot (.jpg)
+- Data file (.xlsx)
 
 ## Dashboard Preview
 
