@@ -28,6 +28,6 @@ The project explores how variables such as location, room type, reviews, and ava
 - Seasonal pricing trends were visible across multiple markets
 
 ## Files Included
-- Tableau workbook (.twbx)
+- Tableau workbook (.twb)
 - Dashboard screenshot (.jpg)
 - Data file (.xlsx)
