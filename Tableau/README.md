@@ -30,4 +30,4 @@ The project explores how variables such as location, room type, reviews, and ava
 ## Files Included
 - Tableau workbook (.twb)
 - Dashboard screenshot (.jpg)
-- Data file (.xlsx)
+- Dataset/sample data (.csv)
